@@ -9,7 +9,7 @@
 
 My old video downloader app.
 
-<a href="https://github.com/coffeelakedevv/cld-password-generator/releases/download/v1.2.5/CLDPasswordGenerator_Windows.rar">
+<a href="https://github.com/coffeelakedevv/cld-media-downloader/releases/download/v1.0.1-beta/CLDMediaDownloader-Windows64bit.exe">
   <img width="190" alt="windows-badge" src="https://github.com/user-attachments/assets/8f39fa6e-3f35-4581-b32f-e15f5724a1fe" />
 </a>
 
