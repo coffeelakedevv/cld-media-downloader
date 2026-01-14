@@ -17,8 +17,8 @@ My old video downloader app.
 Download unlimited videos from YouTube, Instagram, TikTok, and many more sites. Download the video or just the audio, choose the quality, choose the file format. It's easy to use.
 
 # Screenshots
-<img width="500" alt="1" src="https://github.com/user-attachments/assets/73a73734-5bd9-4a50-a606-1424c200ab0c" />
-<img width="500" alt="2" src="https://github.com/user-attachments/assets/bedb828e-115d-41dc-8185-09ac14180be0" />
+<img width="700" alt="1" src="https://github.com/user-attachments/assets/73a73734-5bd9-4a50-a606-1424c200ab0c" />
+<img width="700" alt="2" src="https://github.com/user-attachments/assets/bedb828e-115d-41dc-8185-09ac14180be0" />
 
 # Localization
 The only available language is Turkish. Since development has been discontinued, no new languages will be added.
