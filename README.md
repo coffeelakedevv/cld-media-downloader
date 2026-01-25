@@ -13,6 +13,9 @@ My old video downloader app.
   <img width="190" alt="windows-badge" src="https://github.com/user-attachments/assets/8f39fa6e-3f35-4581-b32f-e15f5724a1fe" />
 </a>
 
+# NOTICE
+The development of this project has been terminated.
+
 # About
 Download unlimited videos from YouTube, Instagram, TikTok, and many more sites. Download the video or just the audio, choose the quality, choose the file format. It's easy to use.
 
